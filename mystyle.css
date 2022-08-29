@@ -1,0 +1,35 @@
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: #cfcfcf;   
+}
+
+.jumbotron {
+    background-color: #E9ECEF;
+    color: #C21010;
+    text-align: center;
+}
+
+.lead {
+    color: black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.btn {
+    margin-top: 15px;
+}
+
+.card-body {
+    font-size: 17px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #cfcfcf;
+}
+
+.price {
+    background-color: grey;
+    border-radius: 5px;
+    padding: 5px;
+    box-shadow: 1px 2px 3px grey;
+    font-size:12px;
+}
